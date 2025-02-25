@@ -1,6 +1,6 @@
 # js-ejercicios-calculadora-venta-entradas
 
-Este proyecto incluye dos ejercicios en JavaScript:
+La tarea incluye dos ejercicios en JS:
 
 Calculadora: Una calculadora básica que permite realizar operaciones matemáticas 
 (suma, resta, multiplicación y división) entre dos números ingresados por el usuario. 
